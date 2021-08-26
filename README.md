@@ -4,12 +4,9 @@ I believe in keeping all things simple.
 
 📫  How to reach me?
 
-![discord](https://img.shields.io/static/v1?style=flat-square&logo=discord&label=&message=@usrgnome&color=5b5b5b&labelColor=5b5b5b)
+![discord](https://img.shields.io/static/v1?style=flat-square&logo=discord&label=&message=@usrgnome#5536&color=5b5b5b&labelColor=5b5b5b)
 
-<summary>⚡️ More about my coding life</summary>
 <br />
-
-![LeetCode progress](https://leetcode-badge.chyroc.cn/?name=usrgnome&refresh=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usrgnome&layout=compact&hide=css,html)
 
