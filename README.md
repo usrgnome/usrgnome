@@ -4,7 +4,7 @@ I believe in keeping all things simple.
 
 📫  How to reach me?
 
-![discord](https://img.shields.io/static/v1?style=flat-square&logo=discord&label=&message=@usrgnome5536&color=5b5b5b&labelColor=5b5b5b)
+![discord](https://img.shields.io/static/v1?style=flat-square&logo=discord&label=&message=@usrgnome%235536&color=5b5b5b&labelColor=5b5b5b)
 
 <br />
 
