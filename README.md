@@ -18,18 +18,18 @@ These are some of the major technologies that I use or have worked on in the pas
 
 **Cloud**
 
-<img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png">|<img title="Heroku" alt="Heroku" width="40px" src="https://img.icons8.com/color/48/000000/heroku.png">
-|--|--|
+<img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png">|<img title="Vultr" alt="Vultr" width="40px" src="https://media-exp1.licdn.com/dms/image/C4E0BAQFbbQOVULzHzw/company-logo_200_200/0/1652731846554?e=2147483647&v=beta&t=oMYCaeVnODwteC5po9ub3VVo2hYTu8eRSoEM3n-ierM">|<img title="Linode" alt="Linode" width="40px" src="https://yt3.ggpht.com/zH-5kUocR3POAfRnS4CpRV08LSgYODneZozqAML2cND2ynl-pA1NvtZdQHK9Ueg1aP-sq081=s900-c-k-c0x00ffffff-no-rj">
+|--|--|--|
 
 **Databases**
 
-<img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">|<img title="MongoDB" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png">|<img title="ElasticSearch" alt="ElasticSearch" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/elasticsearch/elasticsearch.png"> <br>
-|--|--|--|
+<img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png"><br>
+|--|
 
 **Tools**
 
-<img title="Ubuntu" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png">|<img title="ZSH" alt="ZSH" width="40px" src="https://s3.amazonaws.com/ohmyzsh/oh-my-zsh-logo.png">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|<img title="Jupyter Notebook" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png">
-|--|--|--|--|--|
+<img title="Ubuntu" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png">|<img title="ZSH" alt="ZSH" width="40px" src="https://s3.amazonaws.com/ohmyzsh/oh-my-zsh-logo.png">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">
+|--|--|--|--|
 <br>
 
 ## Some of my stats :bar_chart:
@@ -43,8 +43,3 @@ These are some of the major technologies that I use or have worked on in the pas
 
 <a href="https://www.linkedin.com/in/tusharmit/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="https://www.kaggle.com/techytushar/"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="40"></a>
 |--|--|
-
-### Here is a random meme for you, to make your day better
-(*PS: Refresh the page to see a new meme* :wink: )
-
-<a href="https://github.com/techytushar/random-memer"><img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400"></a>
